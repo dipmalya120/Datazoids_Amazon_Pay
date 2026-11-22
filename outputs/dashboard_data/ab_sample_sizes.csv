@@ -1,0 +1,8 @@
+metric,effect,customers_per_arm
+churn change (pts),1.0,23665
+churn change (pts),2.0,5789
+churn change (pts),3.0,2515
+churn change (pts),5.0,862
+spend change (%),5.0,4670
+spend change (%),10.0,1168
+spend change (%),15.0,519

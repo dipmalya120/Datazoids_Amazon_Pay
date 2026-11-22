@@ -1,0 +1,22 @@
+{
+  "customers": 5000,
+  "churn_rate": 0.19,
+  "heavy_redeemers": 2533,
+  "heavy_share_of_redeemed_bill": 0.7622,
+  "heavy_cost_per_100": 1.43,
+  "saving_25pct_cut_redeemed_view": 0.1906,
+  "saving_25pct_cut_earned_view": 0.127,
+  "reinvest_share": 0.3,
+  "assumptions": {
+    "rate_amazon": {
+      "prime": 0.05,
+      "nonprime": 0.03
+    },
+    "rate_partner": 0.01,
+    "rate_other": 0.01,
+    "mix_amazon": 0.4,
+    "mix_partner": 0.3,
+    "mix_other": 0.3,
+    "eligible_share_amazon": 0.85
+  }
+}

@@ -1,0 +1,9 @@
+item,design
+Population,Heavy redeemers (real engagers + deal-seekers)
+Arms,Control (current cashback) | A: 25% lower cashback rate | B: higher rate only after activity milestones
+Assignment,"Random, stratified by cashback segment; same dates for all arms"
+Duration,"8 to 12 weeks (assumption), plus 90-day retention read"
+Primary metric,Net contribution per customer (volume x revenue per Rs100 - cashback paid)
+Secondary metrics,"Transactions per month, spend, 90-day retention"
+Guardrails,"NPS, support contacts, complaints, share of customers cutting activity"
+Decision rule,"Roll out if saving holds, volume loss stays below the break-even in Cell 19 and churn rises by at most 1 point"
